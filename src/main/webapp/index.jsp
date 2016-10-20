@@ -104,7 +104,7 @@
 		<div class="jumbotron">
 			<div>
 				<h1> Invitar "Multiply Hapiness With Invitar"</h1>
-				<h2>Lets Celebrate Special Moments</h2>
+				<h2 position="center">Lets Celebrate Special Moments</h2>
 				<p></p>
 <!-- 			</div>
 
